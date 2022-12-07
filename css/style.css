@@ -235,7 +235,7 @@ margin-top: 5px;
 		position: relative;
 		width: 30px;
 		height: 20px;
-		margin-left: 85px;
+		margin-left: 120px;
 		z-index: 3;
 	}
 
@@ -446,7 +446,7 @@ margin-top: 5px;
 	
 
 	.blog {
-		width: 290px;
+		width: 330px;
 		margin-top: 101px;
 		justify-content: space-between;
 	}
@@ -455,7 +455,7 @@ margin-top: 5px;
 	
 	.page-creater {
 		display: flex;
-		width: 290px;
+		width: 330px;
 		align-items: center;
 		justify-content: space-between
 	}
@@ -479,7 +479,7 @@ margin-top: 5px;
 	.number_page {
 		display: flex;
 		justify-content: space-between;
-		width: 562px;
+		width: 330px;
 		margin-left: 313px;
 		margin-top: 81px;
 		align-items: center;
@@ -494,6 +494,7 @@ margin-top: 5px;
 		margin-top: 86px;
 		flex-direction: row-reverse;
 		display: flex;
+		width: 330px;
 	}
 	
 	
